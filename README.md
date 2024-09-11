@@ -24,3 +24,6 @@ from graphviz import Digraph
 Дана двумерная матрица, где 0 -- это свободная клетка, 1 -- стена.</br>
 Начальная координата = (0,0). Нужно добраться до точки (n-1,m-1).</br>
 Найти кратчайший путь, если он существует.
+
+
+Решение: https://github.com/debaggi/Junior-Data-Analyst-Cases/blob/main/alg_session-1
